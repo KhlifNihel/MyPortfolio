@@ -36,13 +36,13 @@ const languagesDone = [
 ]
 const EducationData = {
     collegeName: "Faculty of Science, Monastir",
-    courseName: "B.Computer Science",
+    courseName: "BSc.Computer Science",
     couseStartYear: "2021",
     courseEndYear: "Present",
     details: [
         'I joined my college in 2021. Cleared First and Second Year with a good academic performance.',
         'I have studied basic software engineering subjects like Algorithms, OOP, OS, AI, ML etc.',
-        ' Apart from this, I have done courses on software testing, Big Data, Cloud Computing and Agile approach .'
+        ' Apart from this, I have done courses on software testing, Big Data, Cloud Computing, Linux system administration, UML and Agile approach .'
     ]
     ,
     codingStatus: languagesDone
