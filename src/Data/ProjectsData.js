@@ -16,6 +16,11 @@ const DUMMY_PROJECTS = [
         description: 'A JavaScript project ',
         sourceLink: 'https://github.com/KhlifNihel/Quote-generator',
         lastUpdated: 'July 2023'
+    }, {
+        projectTitle: 'Tic Tac Toe',
+        description: 'Mobile application, developed by Android Studio - Java ',
+        sourceLink: 'https://github.com/KhlifNihel/ticTacToe',
+        lastUpdated: 'November 2023'
     },
     {
         projectTitle: 'CRUD-Django',
